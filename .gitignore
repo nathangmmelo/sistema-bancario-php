@@ -1,0 +1,13 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Dependências PHP, caso sejam adicionadas futuramente
+/vendor/
+
+# Logs
+*.log
