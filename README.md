@@ -118,10 +118,3 @@ Crie uma segunda conta e use a opção **6. Transferir** para enviar dinheiro en
 - Implementar transferências com identificador e comprovante
 - Migrar os testes para PHPUnit
 
-## 👨‍💻 Autor
-
-**Nathan Gabriel** — projeto de estudo e portfólio.
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
